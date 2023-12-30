@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-30T22:49:22.027Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="w4-jkSxChRnty6XkRLWY" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-30T22:55:22.991Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="6u7AFods_rBrv5xbLeVH" version="22.1.16" type="github">
   <diagram name="Page-1" id="LfpSLBDjDCymRGX5kylx">
     <mxGraphModel dx="1050" dy="1679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry y="200" width="190" height="280" as="geometry" />
         </mxCell>
         <mxCell id="VotGJ8dUcBm4uIzm4TV_-8" value="ECU_core" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#8456EF;strokeColor=#b85450;swimlaneFillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="245" y="20" width="180" height="240" as="geometry" />
+          <mxGeometry x="345" y="10" width="180" height="240" as="geometry" />
         </mxCell>
         <mxCell id="VotGJ8dUcBm4uIzm4TV_-9" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="VotGJ8dUcBm4uIzm4TV_-8">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -105,7 +105,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VotGJ8dUcBm4uIzm4TV_-30" value="Errors" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#378C6D;swimlaneFillColor=default;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="210" y="475" width="180" height="150" as="geometry" />
+          <mxGeometry x="310" y="465" width="180" height="150" as="geometry" />
         </mxCell>
         <mxCell id="VotGJ8dUcBm4uIzm4TV_-31" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="VotGJ8dUcBm4uIzm4TV_-30">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -160,7 +160,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VotGJ8dUcBm4uIzm4TV_-43" value="Inverter" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#2356A1;fontColor=#ffffff;strokeColor=#001DBC;swimlaneFillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="425" y="385" width="180" height="330" as="geometry" />
+          <mxGeometry x="525" y="375" width="180" height="330" as="geometry" />
         </mxCell>
         <mxCell id="VotGJ8dUcBm4uIzm4TV_-44" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="VotGJ8dUcBm4uIzm4TV_-43">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -297,15 +297,15 @@
         </mxCell>
         <mxCell id="VotGJ8dUcBm4uIzm4TV_-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VotGJ8dUcBm4uIzm4TV_-86" target="VotGJ8dUcBm4uIzm4TV_-44">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="430" as="targetPoint" />
+            <mxPoint x="510" y="420" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="210" y="125" />
-              <mxPoint x="210" y="430" />
+              <mxPoint x="310" y="115" />
+              <mxPoint x="310" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="VotGJ8dUcBm4uIzm4TV_-97" value="IMD" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;swimlaneFillColor=default;fillColor=#FF5447;" vertex="1" parent="1">
-          <mxGeometry x="470" y="240" width="180" height="120" as="geometry" />
+          <mxGeometry x="570" y="230" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="VotGJ8dUcBm4uIzm4TV_-98" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="VotGJ8dUcBm4uIzm4TV_-97">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -349,10 +349,13 @@
         <mxCell id="VotGJ8dUcBm4uIzm4TV_-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VotGJ8dUcBm4uIzm4TV_-110" target="VotGJ8dUcBm4uIzm4TV_-98">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="225" y="155" />
-              <mxPoint x="225" y="285" />
+              <mxPoint x="325" y="145" />
+              <mxPoint x="325" y="275" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VotGJ8dUcBm4uIzm4TV_-115" value="&lt;h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;TODO&lt;/span&gt;&lt;/h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;da pensare di aggiungere:&lt;/span&gt;&lt;br&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;p&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgb(255, 51, 51); background-color: initial;&quot;&gt;priorities&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgb(255, 51, 51); background-color: initial;&quot;&gt;tabelle messaggi inverter&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgb(255, 51, 51); background-color: initial;&quot;&gt;airbreaks&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgb(255, 51, 51); background-color: initial;&quot;&gt;campi errori&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;altri campi IMD&lt;/span&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;border: none; color: rgb(255, 51, 51); margin: 0px 0px 0px 40px; padding: 0px;&quot;&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;border: none; color: rgb(255, 51, 51); margin: 0px 0px 0px 40px; padding: 0px;&quot;&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;border: none; color: rgb(255, 51, 51); margin: 0px 0px 0px 40px; padding: 0px;&quot;&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;border: none; color: rgb(255, 51, 51); margin: 0px 0px 0px 40px; padding: 0px;&quot;&gt;&lt;/blockquote&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBorderColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry y="505" width="190" height="215" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
