@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-02T21:19:22.730Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="kQA35bbOWeIks0SYykDH" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-02T21:23:06.240Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="CR0W0yW1RIZWLB0k_u8R" version="22.1.16" type="github">
   <diagram name="Page-1" id="ixCgtZ2oRhUL-easutmG">
     <mxGraphModel dx="1050" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -67,6 +67,12 @@
         </mxCell>
         <mxCell id="4-KBnMw567zmz6jlA6m6-23" value="M" style="dashed=0;outlineConnect=0;align=center;html=1;shape=mxgraph.pid.engines.electric_motor_(ac);fontSize=45;" vertex="1" parent="1">
           <mxGeometry x="620" y="950" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4-KBnMw567zmz6jlA6m6-24" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_thing_temperature_humidity_sensor;" vertex="1" parent="1">
+          <mxGeometry x="100.5" y="910" width="59" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="4-KBnMw567zmz6jlA6m6-26" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_thing_temperature_humidity_sensor;" vertex="1" parent="1">
+          <mxGeometry x="700" y="780.5" width="59" height="59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
